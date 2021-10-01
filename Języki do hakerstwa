@@ -1,0 +1,36 @@
+Assembler jest wykorzystywany do inżynierii odwrotnej, zaczynając od programowania na niskim poziomie. Język ten jest trudny do zrozumienia, ale jest bardzo przydatny
+dla hakerów, którzy chcą wykonywać inżynierię wsteczną na określonych aplikacjach. Język assemblera służy do bezpośredniego instruktażu wszelkich sprzętów lub oprogramowań,
+dlatego właśnie najlepszy jest w inżynierii odwrotnej. Uczenie się Assemblera nie zawsze ma sens, jednak jeśli jesteś wytrwały, to dlaczego nie warto spróbować? Oczywiście
+sam język może Cię do tego zniechęcić, ale crackowanie oprogramowania i jego analiza są o wiele ciekawsze od nauki.
+ 
+Python jest wykorzystywany głównie do tworzenia exploitów oraz wirusów komputerowych. Można w Pythonie również tworzyć wiele bardzo ciekawych narzędzi hakerskich. Według wielu
+jest jednym z najlepszych języków wysokiego poziomu. Nauka Pythona bardzo pomaga w nauce tworzenia exploitów oraz nauce zasad programowania i działania procesów. Ten język ma
+bardzo dużą społeczność zwolenników oraz bardzo wiele bibliotek pisanych przez programistów Pythona. Wykorzystywany jest on do tworzenia skryptów systemowych, programów
+bazodanowych, tworzenie backendu stron www, skrypty automatyzujące pracę i kontrolujące zachowanie innych elementów oprogramowania (np. bibliotek języka C czy C++), tworzenie
+oprogramowania dla robotów, programowanie gier i multimediów a także testowanie oprogramowania. Pythona możesz uruchomić również na systemie Android, za pomocą emulatora
+Terminala Linux – dzięki aplikacji “Termux”.
+
+C lub C++. Oba te języki są wykorzystywane do tworzenia exploitów i wirusów. Cały system operacyjny UNIX opracowany jest przy użyciu C. Zaś język C++ przynosi wszystkie
+nowocześnie stosowane koncepcje programowania języka C zorientowanych na obiekty. Musisz zrozumieć każdy z tych dwóch języków, aby zrozumieć właśnie pisanie exploitów.
+Windows w większości składa się z plików napisanych w języku C z niewielką cegiełką napisaną w języku C++, zaś na kolejnym miejscu jest właśnie C#. C jest najczęściej
+używany do zadań niskopoziomowych, takich jak tworzenie oprogramowania dla systemów czy mikrokontrolerów. Wynika to za faktu, że wśród języków wysokiego poziomu jest
+“najbliżej” maszyny. C jest lekki i wydajny, co sprawia, że jest praktycznie w każdym systemie wbudowanym. C++ to język ogólnego zastosowania. Programy w C++ mogą być
+napisane tak, aby były wieloplatformowe bez żadnych modyfikacji, ale tylko, gdy trzymamy się odpowiednich zasad. Niektóre właściwości/biblioteki są dla specyficznych
+systemów. Ogólnie rzecz biorąc, C++ znajduje zastosowanie tam, gdzie liczy się wydajność oraz niskie zużycie zasobów.
+
+PHP. Język PHP jest wykorzystywany do hakowania i pentestingu. Jest to jeden z najlepszych dynamicznych języków scenariusza internetowego. To właśnie język, z którego
+korzysta serwer, który może być używany do pisania exploitów dla serwerów internetowych i aplikacji webowych. Wykonywany jest po stronie serwera, co oznacza, że jest
+niewidoczny dla użytkowników. Kod PHP wykonuje się na serwerze, a wartość zwróconą przekazuje do hosta naszej przeglądarki. Jednak, co stoi na przeszkodzie, aby móc
+znaleźć odpowiedni wektor ataku, chociażby jako zagrożenie XSS injection? PHP wraz ze wzrostem aplikacji może być trudniejszy do utrzymania i namierzania błędów, jako
+że brak w nim statycznego typowania. Jednak jeśli nauczymy się jak prowadzić porządek w kodzie i pisać testy, to utrzymanie spójnego kodu stanie się łatwiejsze. Teraz
+zadaj sobie pytanie, w jakim języku często (o ile nie zawsze i nie najczęściej) jest napisany formularz logowania na stronie internetowej?
+
+JavaScript jest wykorzystywany do hakowania i pentestingu. To świetny język programowania po stronie klienta na stronach internetowych oraz aplikacjach. Ostatnio zyskał
+dużą popularność i jednocześnie dominuje wśród języków programowania stron internetowych i aplikacji webowych. Zrozumienie logiki kodu JavaScript pomoże Ci znależć wadę
+aplikacji internetowych oraz znalezieniu sposobach ataku na nie. JS jest językiem skryptowym (interpretowany lub kompilowany metodą JIT). Chociaż JavaScript jest najbardziej
+znany jako język skryptowy dla stron internetowych, używa go również wiele środowisk poza przeglądarką, takich jak Node.js, Apache CouchDB czy Adobe Acrobat.
+
+SQL (skrót od Structured Query Language) jest wykorzystywany do hakowania baz danych (oraz ich tworzenia i zarządzania). Każde dane przechowywane są w bazie danych, więc
+należy wiedzieć o programowaniu w nim oraz podatności na bazę danych, ponieważ jest to najbardziej wrażliwa cześć aplikacji i serwera internetowego. W programowaniu aplikacji
+biznesowych SQL jest kluczowym językiem programowania bazy danych. Praktycznie każda aplikacja korzystająca z bazy danych wykorzystuje ten język programowania. Znajomość
+języka SQL jest praktycznie niezbędna do tworzenie dodatkowych raportów do systemów klasy CRM lub ERP, chyba że korzysta się z zaawansowanego systemu BI.
