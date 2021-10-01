@@ -1,0 +1,33 @@
+Aby ułatwić Tobie zdobywanie nowej wiedzy, zdecydowałem się na przedstawienie moich argumentów na ten temat oraz krótkie ich omówienie na różnych, prawdziwych przykładach.
+
+1. Będzie mógł poznać, jak działają inne narzędzia hakerskie, które są open source, przez co może je ulepszyć i poznać tajniki ich działania.
+
+Pierwszą rzeczą, jaką hakerowi przyda się umiejętność programowania przede wszystkim jest możliwość poznania oraz zrozumienia, jak działają narzędzia
+hakerskie bazujące na projekcie typu open source. Pomoże to hakerowi między innymi w ulepszaniu takowych narzędzi i poznawaniu tajników ich działania.
+
+2. Będzie zaznajomiony z zasadami działania kodu w określonym środowisku oraz systemie.
+
+Umiejętność programowania z pewnością pomoże określić, czy haker jest kreatywny przy rozwiązywaniu określonych problemów czy też nie. Wiemy, że programista musi
+myśleć krytycznie, być kreatywny oraz mieć umiejętność rozwiązywania problemów. To umożliwi zaznajomienie działania kodu w określonym środowisku oraz systemie.
+Możesz również stworzyć własne narzędzia hakerskie, wirusy czy też złośliwe skrypty. Z pewnością one się nam przydadzą, przecież każdy szanujący się haker musi
+umieć programować! W tej książce stawiam przede wszystkim na etyczność, dlatego nikogo na nic nie namawiam. Przykładem etycznego narzędzia może być prosty skaner
+portów napisany w języku Python. Odwołując się do mojego argumentu, warto jeszcze dodać takie zdanie podsumowywujące: "Nie wszędzie wykona się C# na platformę .NET".
+Teraz każdy powinien zrozumieć mój argument. Tak samo inne języki programowania – nie wszędzie da się je uruchomić.
+
+3. Będzie mógł zrobić własne narzędzie hakerskie.
+
+IT to zawód, w którym trzeba się ciągle uczyć. Nie ma, że nie. Tak samo programista – też musi się uczyć. A co z hakerem? No właśnie, programowania ciągle się uczymy,
+będzie ono niezwykle przydatne przy tworzeniu narzędzi hakerskich. Dobra, ale co jeśli haker nie będzie tworzyć żadnych swoich narzędzi. Moim zdaniem na pewno będzie
+musiał zmodyfikować inne narzędzia hakerskie, oczywiście że nie zawsze, ale jednak to mu się przyda nie tylko przy zmienianiu jego funkcjonalności lub dodawaniu nowych
+rzeczy. Warto jeszcze wspomnieć o tworzeniu wirusów komputerów, o których będą podane informacje w następnym argumencie.
+
+4. Tworzenie wirusów komputerowych.
+
+To jest już kolejny i ostatni powód, po co hakerowi programowanie. Są do tego narzędzia takie jak na przykład “Veil Evasion”, czyli gotowe “skrypty”, dzięki którym możemy
+stworzyć tak zwanego “Backdoora”. Niestety problem tego narzędzia jest w tym, że czasami taki plik stworzony przez to właśnie narzędzie jest wykrywany przez antywirusy
+(tak samo jak narzędzie). To nic dziwnego, skoro jest robiony pewnym i tym saym algorytmem tego o to narzędzia. O wiele skuteczniej jest napisać właśnie takiego wirusa.
+Właśnie do tego hakerowi przyda się umiejętność programowania. Pamiętajmy, że odpowiednio skonfigurowany i napisany wirus może przejąć kontrolę nad komputerem ofiary.
+Najpopularniejszymi językami programowania wśród hakerów są te, które umożliwiają szybkie tworzenie interesujących i użytecznych programów oraz dają programiście bardzo
+dużą kontrolę nad programem. Do takich języków należą m.in. C i C++, oraz wiele języków interpretowanych: Perl, Python, PHP, Ruby itd. Haker może również skopiować jakąś
+stronę internetową w celu ataku typu phishing – czyli wyłudzenie danych lub pozyskanie dobroci majątkowych danej ofiary. Tego przykładem może być nieprawdziwa strona
+logowania do banku, Facebooka itp.
