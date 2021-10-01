@@ -1,0 +1,11 @@
+Nie od dzisiaj wiadomo, że wszystko co za darmo lub skradzione smakuje najlepiej. Hakerzy mogą mieć swoje własne powody, aby się włamywać. Poniżej zebrałem zbiór kilka z nich,
+które mogą okazać się najczęstszymi powodami włamań. Hakerzy, włamywacze oraz crackerzy działają z przeróżnych powodów. Dla niektórych jest to chęć szybkiego zysku, możliwego
+do uzyskania przy pomocy wykradzionych danych, dla innych uzyskanie rozgłosu i wywołanie zamieszania lub też często spotykane – ujawnienie prawdy o jakiejś osobie lub o jego
+celu. Część z nich twierdzi, że włamania przyczyniają się do zwiększenia dbałości administratorów o zabezpieczenia. Jednak ten argument odrzuca większość społeczeństwa
+informatycznego. Specjaliści wskazują, że włamywacz może dokonać szkód nawet mimowolnie, wskutek błędu lub niedostatecznej wiedzy administratora (ofiary hakera) danego systemu.
+Hakerzy z grupy “białych kapeluszy” starają się znaleźć potencjalne zagrożenia, zanim zostaną odkryte przez włamywaczy. Niektórzy spośród „czarnych kapeluszy” uważają jednak,
+że wobec opieszałości producentów oprogramowania w publikowaniu łatek poprawiających bezpieczeństwo jedynie bezpośrednia groźba w postaci exploita może ich skłonić do
+energiczniejszego działania. Wykryte przez badaczy zagrożenia często są ukrywane przez odpowiedni czas, aby twórca programu w którym wykryto lukę miała czas na jej poprawienie.
+Znalezione luki często zapisuje się w bazach błędów np. CVE, przyznając im odpowiedni numer. Niektóre firmy takie jak np. Facebook czy Google mają swoje programy tzw. Bug bounty,
+dzięki którym osoba, która znajdzie błąd może zostać nagrodzona pieniężnie. Tego typu programy mają na celu wyeliminowanie tzw. 0-day, czyli exploitów, które są wykorzystywane
+przez „czarne kapelusze”, na które nie ma jeszcze łaty.
